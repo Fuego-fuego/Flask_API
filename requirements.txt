@@ -1,13 +1,13 @@
 
-aniso8601 == *
-click == *
-flask == *
-flask-restful == *
-flask-sqlalchemy == *
-itsdangerous == *
-jinja2 == *
+aniso8601 == "*"
+click == "*"
+flask == "*"
+flask-restful == "*"
+flask-sqlalchemy == "*"
+itsdangerous == "*"
+jinja2 == "*"
 markupsafe == *
-pytz == *
-six == *
-sqlalchemy == *
-werkzeug == *
+pytz == "*"
+six == "*"
+sqlalchemy == "*"
+werkzeug == "*"
